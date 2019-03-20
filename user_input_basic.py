@@ -1,3 +1,4 @@
 # User input in Python
 
-input("What is your name: ") # input function
+variable = input("What is your name: ") # input functionin the pharentesis the prompt is desplayed
+print("Hello " + variable + " !")
