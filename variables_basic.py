@@ -1,6 +1,5 @@
 # Learn basic variables
 
-
 # variable example three types: string, integer, bollean
 
 age_string = "50"
