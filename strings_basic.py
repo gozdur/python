@@ -9,3 +9,6 @@ print("Pawel\nGozdur")
 
 print("Pawel\"Gozdur")
 
+# Strings stored in variables and concatenation of strings
+phrase = "string in a variable"
+print("\n" + "concatenated " + phrase)
