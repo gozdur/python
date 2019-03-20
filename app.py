@@ -1,6 +1,6 @@
 # variable example
 
-age = 50
+age = "50"
 name = "Pawel"
 
 print("My name is " + name + " and, ")
