@@ -1,5 +1,4 @@
-# Learn variables
-
+# Learn basic variables
 
 
 # variable example three types: string, integer, bollean
