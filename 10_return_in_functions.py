@@ -8,9 +8,11 @@ def cube(num):
 print(cube(4))
 
 
+# This fucntion returns the value of the function stores it in a variable and than the variable is printed as a float number
+
 def add(num):
     return num+num
 
 
 result = add(3)
-print(result)
+print (float(result))
