@@ -17,5 +17,5 @@ name_string = "Aleksander"
 age_string = "0.2"
 
 print("My name is " + name_string + " and, ")
-print("my age is " + age_string + ".")
+print("my age is " + str(age_integer) + ".")
 

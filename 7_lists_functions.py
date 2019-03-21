@@ -32,7 +32,7 @@ friends.insert(1, "Aleksander") # will add a new value on the index position 1 a
 print(friends)
 
 # Remove function
-
+sdklfjsdlfjdlfj
 friends.remove("Olek") # removes a value with a name
 print(friends)
 
