@@ -11,3 +11,16 @@ def say_hi():
 print("top")
 say_hi()  # calls the function and executes it
 print("bottom")
+
+
+########################################################
+
+# defina a function that requires passing parameters
+
+def say_spadaj(name):
+    print("Spadaj " + name)
+
+say_spadaj("Dziadu")  # passes a value to the function
+say_spadaj(str(6))    # passes a integer converted to string as a value
+
+
