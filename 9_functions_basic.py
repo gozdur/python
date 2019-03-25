@@ -24,3 +24,4 @@ say_spadaj("Dziadu")  # passes a value to the function
 say_spadaj(str(6))    # passes a integer converted to string as a value
 
 
+
