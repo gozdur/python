@@ -7,10 +7,10 @@
 
 def say_hi():
     print("Hello !")
-
-print("top")
 say_hi()  # calls the function and executes it
 print("bottom")
+
+print("top")
 
 
 ########################################################
