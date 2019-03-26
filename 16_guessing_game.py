@@ -1,4 +1,7 @@
 
+# while loop will loop unless the contition specified is met
+# inside the while loop we can use if stemenents etc.
+# while condition can contain or and, not statement
 
 
 secret_word = "juniper"
