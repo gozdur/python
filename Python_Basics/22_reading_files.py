@@ -9,6 +9,8 @@
 
 employees_var = open("employees.txt", "r")         # file is read and stored in variable
 
+
+
 print(employees_var.readable()) # function that checks if the file is readable
 
 print(employees_var.readline()) # reads a line and moves cursor to the next line

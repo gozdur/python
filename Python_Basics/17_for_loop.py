@@ -5,6 +5,7 @@
 friends = ["jim", "carren", "kevin"]
 
 
+
 for my_var in "juniper":  # iterates trough a string and prints each character
     print(my_var)
 

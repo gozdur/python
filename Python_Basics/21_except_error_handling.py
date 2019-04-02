@@ -14,7 +14,8 @@ print("\n")
 try:
     number_var2 = int(input("Enter a number: "))
     print(number_var2)
-    division = 10 / 0   # division by zero is not allowed but it will be included in the try statement and except clause will run agains this is not optimal
+    division = 10 / 0   # div
+    # ision by zero is not allowed but it will be included in the try statement and except clause will run agains this is not optimal
 except ZeroDivisionError as err_var: # this is a specific return error for division by zero in Pythin
     print(err_var) # we can stor an arror in a variable using the "as" operator in above line
 except ValueError: # This error type is for wrong values
