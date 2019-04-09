@@ -2,9 +2,6 @@
 
 from pprint import pprint
 
-
-
-
 MonthConversions = {
 
     "Jan": "January",
@@ -12,6 +9,5 @@ MonthConversions = {
     "Mar": "March",
 }
 
+
 pprint(MonthConversions.get('Dec', "Not a valid key"))
-
-

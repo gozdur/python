@@ -334,7 +334,7 @@ book1.read_book()
 
 class Book:
     def __init__(self, title, author):
-        self.title = title;
+        self.title = title
         self.author = author
 
     @property
