@@ -16,7 +16,6 @@ else:
     print("You are NOT a male nor tall")
 
 print("\n")
-
 if is_male and is_tall:
     print("You are a male and tall")
 elif is_male and not(is_tall):
