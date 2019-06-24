@@ -5,12 +5,12 @@
 
 def raise_to_power(base_num, pow_num):
     result = 1
-    for index in range(pow_num):       # range iterate range(x) number of times
+    for kupa in range(pow_num):       # range iterate range(x) number of times
         result = result * base_num
-        print(index)
+        print(kupa)
     return result
 
-print(raise_to_power(2, 2))
+print(raise_to_power(2, 4))
 
 
 

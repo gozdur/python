@@ -1,6 +1,6 @@
 # Lists in Python - ARRAY
 
-friends = ["Jacek", "Werni", "Nikt", "Pawel", "Seba"] # variable which is a list
+friends = ["Jacek", "Werni", "Nikt", "Pawel", "Seba"] #    variable which is a list
 
 print(friends)  # Will print the list
 
@@ -14,3 +14,7 @@ print(friends[2:5]) # will grab third value from three up to four (will not grap
 friends[1] = "Milosz" # updates the list in the variable at position two
 
 print(friends)
+
+
+
+

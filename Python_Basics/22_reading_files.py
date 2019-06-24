@@ -19,7 +19,6 @@ print(employees_var.read()) # reads full file and prints but because of previous
 
 employees_var.close() # it will close the file close function used on the variable
 
-print("\n ###############################")
 
 ##############################################################################
 
@@ -29,7 +28,6 @@ print(employees_var.readlines()) # .readlines reads it and puts in a list (array
 
 employees_var.close() # it will close the file close function used on the variable
 
-print("\n ########################################")
 
 ################################################################################
 

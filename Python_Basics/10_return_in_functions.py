@@ -1,5 +1,5 @@
 
-# return statement returns the output of the function, otherwise print
+# return statement returns the output of the function
 # stetement would give none, when we use return it records the output
 
 def cube(num):

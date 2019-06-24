@@ -3,9 +3,7 @@ import useful_tools   # imports functions written in outher python files
 
 print(useful_tools.get_file_txt("test.txt"))
 
-print(useful_tools.feet_in_mile)
-
-print(useful_tools.roll_dice(158))
+print(useful_tools.roll_dice(1))
 
 # in this example the module file was in the same directory as the python program
 #  two types of modules exist built in and external,

@@ -205,7 +205,7 @@ print(len(lucky_numbers))
 
 # F U N C T I O N S
 
-def add_numbers(num1, num2=99):
+def add_numbers(num1, num2):
      return num1 + num2
 
 sum = add_numbers(4, 3)

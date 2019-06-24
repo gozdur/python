@@ -7,21 +7,18 @@
 
 def say_hi():
     print("Hello !")
-say_hi()  # calls the function and executes it
-print("bottom")
 
-print("top")
+say_hi()  # calls the function and executes it
+
 
 
 ########################################################
 
 # defina a function that requires passing parameters
 
-def say_spadaj(name):
-    print("Spadaj " + name)
-
-say_spadaj("Dziadu")  # passes a value to the function
-say_spadaj(str(6))    # passes a integer converted to string as a value
+def say_hi_to_name(name):
+    print("Hi " + name)
 
 
+say_hi_to_name("Mark")
 

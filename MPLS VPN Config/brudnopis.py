@@ -28,7 +28,7 @@ print(friends)
 
 # Insert function
 
-friends.insert(1, "Aleksander") # will add a new value on the index position 1 and pu   sh other elements to the right
+friends.insert(1, "Aleksander") # will add a new value on the index position 1 and push other elements to the right
 print(friends)
 
 # Remove function
@@ -72,7 +72,7 @@ print(lucky_numbers)
 
 # Reverse the order
 
-friends.reverse() # reverses the order of the list bu   t does not sort
+friends.reverse() # reverses the order of the list but does not sort
 lucky_numbers.reverse() # reverses the order of the list but does not sort
 
 print(friends)
@@ -82,23 +82,3 @@ print(lucky_numbers)
 
 friends2 = friends.copy() # creates a new varialble with a copied frinds list
 print(friends2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
