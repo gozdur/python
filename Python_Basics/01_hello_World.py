@@ -1,1 +1,8 @@
-TEST
+
+
+
+
+v = "AAA"
+
+
+print(
